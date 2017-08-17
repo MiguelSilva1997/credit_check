@@ -29,5 +29,6 @@ class CreditCheck
         end
         count += 1
       end
+      @sum_of_numbers
     end
 end
